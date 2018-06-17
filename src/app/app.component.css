@@ -1,0 +1,9 @@
+.logo-font{
+    margin-left: 20px;
+}
+
+footer{
+    position: fixed !important;
+}
+
+.navbar-toggle .icon-bar{ background-color: #fff;}

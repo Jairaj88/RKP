@@ -1,0 +1,24 @@
+.lading-page{
+    background: url(assets/images/banner.jpg) center no-repeat;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 730px;
+    text-align: center;
+}
+
+.banner-overlay{
+    position: absolute;
+    background: rgba(0, 0, 0, 0.3);
+    font-size: 60px;
+    color: white;
+    text-transform: uppercase;
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    margin: auto;
+    padding-top: 162px;
+    width: 80%;
+}
